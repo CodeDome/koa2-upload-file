@@ -1,4 +1,7 @@
-#安装依赖
+1.安装依赖
+
 npm install
-#运行
+
+2.运行
+
 node serve.js
